@@ -41,4 +41,7 @@ According to the results, VEHICLE LENGTH and GROUND CLEARANCE were statistically
 
 ## DELIVERABLE II: SUMMARY STATISTICS ON SUSPENSION COILS
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch.
+![MOD 15 CHALLENGE DEL II - SUMMARY OF SUSPENSION COIL](https://user-images.githubusercontent.com/99851509/175838145-decc5c91-7cd0-4ca6-be72-1de10b01e276.png)
+![MOD 15 CHALLENGE DEL II - SUMMARY (ENLARGED)](https://user-images.githubusercontent.com/99851509/175838169-bfa273d7-89ed-42ee-9f2a-4d05b16bc508.png)
+
 
