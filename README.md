@@ -5,7 +5,7 @@
 Jeremy is 10-Year veteran employee of Autos-R-Us and has just been named as the Primary Analyst of the Data Analytics Team.  He and his team are in charge of the following:
 * RETROSPECTIVE ANALYSIS OF HISTORICAL DATA
 * ANALYTICAL VERIFICATION OF CURRENT AUTOMOTIVE SPECIFICATIONS
-* STUDY DESIGN OF FUTURE PRODUCT DESIGN
+* STUDY DESIGN OF FUTURE PRODUCT EVALUATIONS & ASSESSMENTS
 
 ### NEW TOOLS
 * R: a programming language for data analytics and statistics.
