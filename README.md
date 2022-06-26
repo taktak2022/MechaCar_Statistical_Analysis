@@ -30,5 +30,13 @@ The PROBABILITY of VARIANCE for each COEFFICIENT or Pr(>|t|)-value for the varia
 * ALL-WHEEL DRIVE (AWD): 0.1852
 
 * p-VALUE: 0.0000000000535
+* R-SQUARED VALUE: 0.7149
 
-According to the results, VEHICLE LENGTH and GROUND CLEARANCE were statistically very unlikely to provide random amounts of variance so the impact on the prototype's MPG would be significant.  Additionally the p-VALUE was well below the significance level of 0.05 so we can reject the null hypothesis and therefore consider the slope for this linear model not to be zero.
+According to the results, VEHICLE LENGTH and GROUND CLEARANCE were statistically very unlikely to provide random amounts of variance so the impact on the prototype's MPG would be significant.  Additionally the p-VALUE was well below the significance level of 0.05 so we can reject the null hypothesis and therefore consider the slope for this linear model not to be zero.  the R-SQUARED VALUE is calculated as 0.7149 (or approximately 71% without rounding up) so while there may be other factors that can affect the predictive probability of this model, overall it is fairly good.  Some other variableS to consider that can affect MPG that were not in this model may include but are not limited to:
+* WEATHER CONDITION, PARTICULARLY COLD (WINTER) WEATHER
+* BAD FUEL INJECTION SYSTEMS
+* DIRTY FUEL FILTERS
+* DRIVER HABITS: SPEEDING, HEAVY BRAKING, ETC.
+
+
+
