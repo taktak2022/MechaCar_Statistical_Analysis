@@ -20,7 +20,7 @@ Jeremy and his team are asked by upper management to review production data for 
 
 ## DELIVERABLE I: USE LINEAR REGRESSION TO PREDICT MPG PROBABILITY VARIANCES
 ![MOD 15 CHALLENGE DEL I - SUMMARY OF LINEAR REGRESSION MODEL](https://user-images.githubusercontent.com/99851509/175805802-3884c4cb-5698-42ef-933c-b85ce00a6b10.png)
-![MOD 15 CHALLENGE DEL I - SUMMARY (ENLARGED)](https://user-images.githubusercontent.com/99851509/175830598-94f870b3-73b9-4a0c-9977-3c13654c4de5.png)
+![MOD 15 CHALLENGE DEL I - SUMMARY (ENLARGED)](https://user-images.githubusercontent.com/99851509/175838250-7a5737e6-8474-43c2-b768-8d5886922110.png)
 
 The PROBABILITY of VARIANCE for each COEFFICIENT or Pr(>|t|)-value for the variables were as follows:
 * VEHICLE LENGTH: 0.00000000000260 ***
@@ -41,7 +41,8 @@ According to the results, VEHICLE LENGTH and GROUND CLEARANCE were statistically
 
 ## DELIVERABLE II: SUMMARY STATISTICS ON SUSPENSION COILS
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch.
+
 ![MOD 15 CHALLENGE DEL II - SUMMARY OF SUSPENSION COIL](https://user-images.githubusercontent.com/99851509/175838145-decc5c91-7cd0-4ca6-be72-1de10b01e276.png)
-![MOD 15 CHALLENGE DEL II - SUMMARY (ENLARGED)](https://user-images.githubusercontent.com/99851509/175838169-bfa273d7-89ed-42ee-9f2a-4d05b16bc508.png)
+![MOD 15 CHALLENGE DEL II - SUMMARY (ENLARGED)](https://user-images.githubusercontent.com/99851509/175838645-f6e129ac-76e1-4a12-9276-368038f5360c.png)
 
 
