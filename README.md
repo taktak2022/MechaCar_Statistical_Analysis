@@ -20,6 +20,8 @@ Jeremy and his team are asked by upper management to review production data for 
 
 ## DELIVERABLE I: USE LINEAR REGRESSION TO PREDICT MPG PROBABILITY VARIANCES
 ![MOD 15 CHALLENGE DEL I - SUMMARY OF LINEAR REGRESSION MODEL](https://user-images.githubusercontent.com/99851509/175805802-3884c4cb-5698-42ef-933c-b85ce00a6b10.png)
+![MOD 15 CHALLENGE DEL I - SUMMARY (ENLARGED)](https://user-images.githubusercontent.com/99851509/175830598-94f870b3-73b9-4a0c-9977-3c13654c4de5.png)
+
 The PROBABILITY of VARIANCE for each COEFFICIENT or Pr(>|t|)-value for the variables were as follows:
 * VEHICLE LENGTH: 0.00000000000260 ***
 * VEHICLE WEIGHT: 0.0776
