@@ -39,4 +39,6 @@ According to the results, VEHICLE LENGTH and GROUND CLEARANCE were statistically
 * DRIVER HABITS: SPEEDING, HEAVY BRAKING, ETC.
 
 
+## DELIVERABLE II: SUMMARY STATISTICS ON SUSPENSION COILS
+The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch.
 
