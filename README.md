@@ -45,4 +45,22 @@ The design specifications for the MechaCar suspension coils dictate that the var
 ![MOD 15 CHALLENGE DEL II - SUMMARY OF SUSPENSION COIL](https://user-images.githubusercontent.com/99851509/175838145-decc5c91-7cd0-4ca6-be72-1de10b01e276.png)
 ![MOD 15 CHALLENGE DEL II - SUMMARY (ENLARGED)](https://user-images.githubusercontent.com/99851509/175838645-f6e129ac-76e1-4a12-9276-368038f5360c.png)
 
+The results of the TOTAL SUMMARY for all 3 lots are as follows:
+* MEAN: 1498.78
+* MEDIAN (RANGE): 1452 to 1505
+* VARIANCE: 62.29356
+* STANDARD DEVIATION: 7.892627
+
+The results of the TOTAL SUMMARY for the Suspension Coils design specifications indicate the variance is within the 100 pounds per square inch tolerance limitations coming in at 62.29356 pounds per square inch.
+
+
+![MOD 15 CHALLENGE DEL II - LOT SUMMARY](https://user-images.githubusercontent.com/99851509/175841711-5574c468-a039-4f9d-a8df-efa640238818.png)
+![MOD 15 CHALLENGE DEL II - LOT SUMMARY (ENLARGED)](https://user-images.githubusercontent.com/99851509/175841743-74a9966e-887e-4ed6-a3be-cd57b6c73834.png)
+
+The results of the LOT SUMMARY is as follows, by LOT:
+### LOT 1
+* MEAN: 1500.00
+* VARIANCE: 0.9795918
+* STANDARD DEVIATION: 0.9897433
+
 
