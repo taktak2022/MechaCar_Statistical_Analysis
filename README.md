@@ -84,7 +84,7 @@ By comparing the statistical analysis for each group lot, we see that LOT 1 and 
 
 Perform t-tests to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch.
 
-### T-TEST FOR ALL LOTS
+### T-TEST FOR ALL LOTS (POPULATION)
 ![MOD 15 CHALLENGE DEL III - ALL LOTS T-TEST](https://user-images.githubusercontent.com/99851509/175864032-1c4f934c-cfb3-42dd-8a9b-eac98ea76546.png)
 * p-VALUE: 0.06028
 * MEAN: 1498.78
@@ -104,17 +104,17 @@ Perform t-tests to determine if all manufacturing lots and each lot individually
 * p-VALUE: 0.04168
 * MEAN: 1496.14
 
+Comparing the t-tests for the individual lots against the Population, we see the mean of each is consistent with the population with no significant variation.  
+Comparing the p-VALUES however, LOT 3 has a value that is lower than our significance level so the null hypothesis would be rejected.  The Population, LOT 1 and LOT 2 have p-VALUES that are higher than our significance level.
 
 
+### DELIVERABLE IV: STUDY DESIGN - MECHACAR VS THE COMPETITION
+NOTE: THE FUEL SYSTEM FOR THE MECHACAR WAS NEVER SPECIFIED FOR THIS MODULE'S SCENARIO
+A design study to make the MechaCar an innovation amongst the competition would be a challenge in itself, especially with the fuel system options available today.  Hybrid vehicles and Electric vehicles come immediately to mind.  With these options to improve fuel efficiency, the suggested obvious options for comparisons to consider are:
+* HYBRID vs CONVENTIONAL FUEL SYSTEM
+* FULL ELECTRIC vs CONVENTIONAL FUEL SYSTEM
+* FULL ELECTRIC vs HYBRID
+* (OPTIONAL COMPARISON FOR HYDROGEN FUEL CELL VEHICLES...but I only know of 1 such vehicle so this possibly should not be considered)
 
-
-
-
-
-
-
-
-
-
-
+The tests that would be recommended would be the t-tests between the MechaCar and the competition.  For each type of fuel system, other sub-categories such as MPG (not applicable for full-electric vehicles) would come into play.  The null hypothesis would be if there was no difference.  The opposite would be the Alternative Hypothesis which would be very useful comparing these fairly new fuel systems.
 
