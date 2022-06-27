@@ -40,7 +40,10 @@ According to the results, VEHICLE LENGTH and GROUND CLEARANCE were statistically
 
 
 ## DELIVERABLE II: SUMMARY STATISTICS ON SUSPENSION COILS
+
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch.
+
+### SUMMARY OF TOTAL MANUFACTURING LOTS
 
 ![MOD 15 CHALLENGE DEL II - SUMMARY OF SUSPENSION COIL](https://user-images.githubusercontent.com/99851509/175838145-decc5c91-7cd0-4ca6-be72-1de10b01e276.png)
 ![MOD 15 CHALLENGE DEL II - SUMMARY (ENLARGED)](https://user-images.githubusercontent.com/99851509/175838645-f6e129ac-76e1-4a12-9276-368038f5360c.png)
@@ -53,6 +56,7 @@ The results of the TOTAL SUMMARY for all 3 lots are as follows:
 
 The results of the TOTAL SUMMARY for the Suspension Coils design specifications indicate the variance is within the 100 pounds per square inch tolerance limitations coming in at 62.29356 pounds per square inch.
 
+### LOT SUMMARY BY EACH MANUFACTURING GROUP LOT
 
 ![MOD 15 CHALLENGE DEL II - LOT SUMMARY](https://user-images.githubusercontent.com/99851509/175841711-5574c468-a039-4f9d-a8df-efa640238818.png)
 ![MOD 15 CHALLENGE DEL II - LOT SUMMARY (ENLARGED)](https://user-images.githubusercontent.com/99851509/175841743-74a9966e-887e-4ed6-a3be-cd57b6c73834.png)
@@ -62,5 +66,45 @@ The results of the LOT SUMMARY is as follows, by LOT:
 * MEAN: 1500.00
 * VARIANCE: 0.9795918
 * STANDARD DEVIATION: 0.9897433
+
+### LOT 2
+* MEAN: 1500.20
+* VARIANCE: 7.4693678
+* STANDARD DEVIATION: 2.7330181
+
+### LOT 3
+* MEAN: 1496.14
+* VARIANCE: 170.2861234
+* STANDARD DEVIATION: 13.0493725
+
+By comparing the statistical analysis for each group lot, we see that LOT 1 and LOT 2 has a variance below the 100 pounds per square inch tolerance limit, however LOT 3 has a variance level that is well above that limitation and does not meet design specifications in this regard.
+
+
+## DELIVERABLE III: T-TESTS ON SUSPENSION COILS
+
+Perform t-tests to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch.
+
+### T-TEST FOR ALL LOTS
+![MOD 15 CHALLENGE DEL III - ALL LOTS T-TEST](https://user-images.githubusercontent.com/99851509/175864032-1c4f934c-cfb3-42dd-8a9b-eac98ea76546.png)
+
+### T-TEST FOR LOT 1
+![MOD 15 CHALLENGE DEL III - LOT 1 T-TEST](https://user-images.githubusercontent.com/99851509/175864114-18c0ac4f-464d-4dde-960b-f19466e8c927.png)
+
+### T-TEST FOR LOT 2
+![MOD 15 CHALLENGE DEL III - LOT 2 T-TEST](https://user-images.githubusercontent.com/99851509/175864189-b7b0aa9c-0401-4723-a9c6-4a3c52213409.png)
+
+### T-TEST FOR LOT 3
+![MOD 15 CHALLENGE DEL III - LOT 3 T-TEST](https://user-images.githubusercontent.com/99851509/175864269-a412b5fa-6060-469a-a0cf-e1bac829042f.png)
+
+
+
+
+
+
+
+
+
+
+
 
 
