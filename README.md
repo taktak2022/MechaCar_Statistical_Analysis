@@ -86,15 +86,25 @@ Perform t-tests to determine if all manufacturing lots and each lot individually
 
 ### T-TEST FOR ALL LOTS
 ![MOD 15 CHALLENGE DEL III - ALL LOTS T-TEST](https://user-images.githubusercontent.com/99851509/175864032-1c4f934c-cfb3-42dd-8a9b-eac98ea76546.png)
+* p-VALUE: 0.06028
+* MEAN: 1498.78
 
 ### T-TEST FOR LOT 1
 ![MOD 15 CHALLENGE DEL III - LOT 1 T-TEST](https://user-images.githubusercontent.com/99851509/175864114-18c0ac4f-464d-4dde-960b-f19466e8c927.png)
+* p-VALUE: 1
+* MEAN: 1500
 
 ### T-TEST FOR LOT 2
 ![MOD 15 CHALLENGE DEL III - LOT 2 T-TEST](https://user-images.githubusercontent.com/99851509/175864189-b7b0aa9c-0401-4723-a9c6-4a3c52213409.png)
+* p-VALUE: 0.6072
+* MEAN: 1500.2
 
 ### T-TEST FOR LOT 3
 ![MOD 15 CHALLENGE DEL III - LOT 3 T-TEST](https://user-images.githubusercontent.com/99851509/175864269-a412b5fa-6060-469a-a0cf-e1bac829042f.png)
+* p-VALUE: 0.04168
+* MEAN: 1496.14
+
+
 
 
 
