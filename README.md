@@ -110,6 +110,7 @@ Comparing the p-VALUES however, LOT 3 has a value that is lower than our signifi
 
 ### DELIVERABLE IV: STUDY DESIGN - MECHACAR VS THE COMPETITION
 NOTE: THE FUEL SYSTEM FOR THE MECHACAR WAS NEVER SPECIFIED FOR THIS MODULE'S SCENARIO
+
 A design study to make the MechaCar an innovation amongst the competition would be a challenge in itself, especially with the fuel system options available today.  Hybrid vehicles and Electric vehicles come immediately to mind.  With these options to improve fuel efficiency, the suggested obvious options for comparisons to consider are:
 * HYBRID vs CONVENTIONAL FUEL SYSTEM
 * FULL ELECTRIC vs CONVENTIONAL FUEL SYSTEM
